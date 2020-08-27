@@ -12,4 +12,4 @@ Las 6 regiones estadísticas establecidas son:
 5. Región Pampeana: Santa Fé, Córdoba y la Provincia de Buenos Aires, exceptuando los 24 partidos del GBA.
 6. Región Patagónica: Neuquén, Río Negro, Chubut, Santa Cruz y Tierra del Fuego, Antártida e Islas del Atlántico Sur.
 
-Para más información respecto a la EPH-INDEC, consultar: https://www.indec.gob.ar/indec/web/Nivel3-Tema-4-46
+Para más información de la EPH, consultar: https://www.indec.gob.ar/indec/web/Nivel3-Tema-4-46
